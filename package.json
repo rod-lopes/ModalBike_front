@@ -35,7 +35,7 @@
 		"typescript": "^4.9.4"
 	},
 	"scripts": {
-		"start": "set PORT=4000 && react-scripts start",
+		"start": "react-scripts start",
 		"unix-start": "PORT=4000 react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
